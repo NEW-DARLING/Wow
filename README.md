@@ -1,4 +1,4 @@
-" 𝑵𝒐 𝒎𝒂𝒕𝒕𝒆𝒓 𝒉𝒐𝒘 𝒎𝒂𝒏𝒚　𝒘𝒐𝒖𝒏𝒅𝒔　𝑰 𝒂𝒄𝒄𝒖𝒎𝒖𝒍𝒂𝒕𝒆, 𝒊𝒕’𝒔 𝒔𝒕𝒊𝒍𝒍　𝒏𝒐𝒕 𝒆𝒏𝒐𝒖𝒈𝒉　𝒏𝒐𝒕 𝒆𝒏𝒐𝒖𝒈𝒉. "
+" 𝑵𝒐 𝒎𝒂𝒕𝒕𝒆𝒓 𝒉𝒐𝒘 𝒎𝒂𝒏𝒚　𝒘𝒐𝒖𝒏𝒅𝒔　𝑰 𝒂𝒄𝒄𝒖𝒎𝒖𝒍𝒂𝒕𝒆, 𝒊𝒕’𝒔 𝒔𝒕𝒊𝒍𝒍　𝒏𝒐𝒕 𝒆𝒏𝒐𝒖𝒈𝒉."
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31io6pzcf2kzovdy3ldzrygdzpam&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31io6pzcf2kzovdy3ldzrygdzpam&redirect=true)
 ![1000025212](https://github.com/user-attachments/assets/f4d30257-9ba9-4376-8732-bfd3149c50b0)
 
